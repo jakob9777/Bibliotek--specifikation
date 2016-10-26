@@ -1,1 +1,4 @@
-# Bibliotek--specifikation
+# Specifikation
+
+Inledning
+Jag tänkte programmera 
