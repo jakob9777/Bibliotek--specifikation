@@ -1,4 +1,4 @@
 # Specifikation
 
-Inledning
-Jag tänkte programmera 
+# Inledning
+# Jag tänkte programmera 
