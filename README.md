@@ -1,4 +1,5 @@
-# Specifikation
+Specifikation
+=============
 
 # Inledning
  Jag tänkte programmera 
